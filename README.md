@@ -1,3 +1,3 @@
-#TP N°19 Introducción, modelos y consultas básicas
+# TP N°19 Introducción, modelos y consultas básicas
 
 - BLANEZ, Mariana
